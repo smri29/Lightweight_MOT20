@@ -1,0 +1,5 @@
+Variant,IDF1,MOTA,ΔIDF1,ΔMOTA
+No Calibration,58.9,39.2,-5.7,-4.8
+No PCA64 (HSV128 only),61.2,41.0,-3.4,-3.0
+No ReID (IoU only),47.8,43.9,-16.8,-0.1
+Full (Ours),64.6,44.0,0.0,0.0

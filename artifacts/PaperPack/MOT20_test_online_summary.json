@@ -1,0 +1,34 @@
+{
+  "MOT20-04": {
+    "features": "MOT20-04_reid_full_pca64.npy",
+    "runtime_s": 83.4530758857727,
+    "raw_lines": 225220,
+    "pruned_lines": 224756,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe/MOT20-04_online_calib_pca_minlen3.txt",
+    "preview_head": "/content/DPF-MOT20/results/preview/MOT20-04_preview_online_calib_pca_head.mp4"
+  },
+  "MOT20-06": {
+    "features": "MOT20-06_reid_full_pca64.npy",
+    "runtime_s": 19.877570629119873,
+    "raw_lines": 68553,
+    "pruned_lines": 68472,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe/MOT20-06_online_calib_pca_minlen3.txt",
+    "preview_head": "/content/DPF-MOT20/results/preview/MOT20-06_preview_online_calib_pca_head.mp4"
+  },
+  "MOT20-07": {
+    "features": "MOT20-07_reid_full_pca64.npy",
+    "runtime_s": 4.010475158691406,
+    "raw_lines": 19736,
+    "pruned_lines": 19713,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe/MOT20-07_online_calib_pca_minlen3.txt",
+    "preview_head": "/content/DPF-MOT20/results/preview/MOT20-07_preview_online_calib_pca_head.mp4"
+  },
+  "MOT20-08": {
+    "features": "MOT20-08_reid_full_pca64.npy",
+    "runtime_s": 10.316756963729858,
+    "raw_lines": 43163,
+    "pruned_lines": 43129,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe/MOT20-08_online_calib_pca_minlen3.txt",
+    "preview_head": "/content/DPF-MOT20/results/preview/MOT20-08_preview_online_calib_pca_head.mp4"
+  }
+}

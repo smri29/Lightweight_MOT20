@@ -1,0 +1,10 @@
+{
+  "MOT20-01": "/content/DPF-MOT20/results/dets_calib/MOT20-01_yolox_calib.txt",
+  "MOT20-02": "/content/DPF-MOT20/results/dets_calib/MOT20-02_yolox_calib.txt",
+  "MOT20-03": "/content/DPF-MOT20/results/dets_calib/MOT20-03_yolox_calib.txt",
+  "MOT20-05": "/content/DPF-MOT20/results/dets_calib/MOT20-05_yolox_calib.txt",
+  "MOT20-04": "/content/DPF-MOT20/results/dets_calib/MOT20-04_yolox_calib.txt",
+  "MOT20-06": "/content/DPF-MOT20/results/dets_calib/MOT20-06_yolox_calib.txt",
+  "MOT20-07": "/content/DPF-MOT20/results/dets_calib/MOT20-07_yolox_calib.txt",
+  "MOT20-08": "/content/DPF-MOT20/results/dets_calib/MOT20-08_yolox_calib.txt"
+}

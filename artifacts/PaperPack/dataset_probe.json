@@ -1,0 +1,134 @@
+{
+  "paths": {
+    "MOT20_ROOT": "/content/drive/MyDrive/Thesis/MOT20",
+    "PROJECT_ROOT": "/content/DPF-MOT20",
+    "results_dets": "/content/DPF-MOT20/results/dets",
+    "results_dets_calib": "/content/DPF-MOT20/results/dets_calib",
+    "results_reid": "/content/DPF-MOT20/results/reid",
+    "results_tracks_probe": "/content/DPF-MOT20/results/tracks_probe",
+    "results_analysis": "/content/DPF-MOT20/results/analysis",
+    "results_preview": "/content/DPF-MOT20/results/preview"
+  },
+  "train": {
+    "MOT20-01": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-01/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-01/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-01/det/det.txt",
+      "gt": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-01/gt/gt.txt",
+      "n_images": 429,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "429",
+        "imWidth": "1920",
+        "imHeight": "1080"
+      }
+    },
+    "MOT20-02": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-02/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-02/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-02/det/det.txt",
+      "gt": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-02/gt/gt.txt",
+      "n_images": 2782,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "2782",
+        "imWidth": "1920",
+        "imHeight": "1080"
+      }
+    },
+    "MOT20-03": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-03/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-03/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-03/det/det.txt",
+      "gt": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-03/gt/gt.txt",
+      "n_images": 2405,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "2405",
+        "imWidth": "1173",
+        "imHeight": "880"
+      }
+    },
+    "MOT20-05": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-05/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-05/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-05/det/det.txt",
+      "gt": "/content/drive/MyDrive/Thesis/MOT20/train/MOT20-05/gt/gt.txt",
+      "n_images": 3315,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "3315",
+        "imWidth": "1654",
+        "imHeight": "1080"
+      }
+    }
+  },
+  "test": {
+    "MOT20-04": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-04/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-04/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-04/det/det.txt",
+      "gt": null,
+      "n_images": 2080,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "2080",
+        "imWidth": "1545",
+        "imHeight": "1080"
+      }
+    },
+    "MOT20-06": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-06/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-06/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-06/det/det.txt",
+      "gt": null,
+      "n_images": 1008,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "1008",
+        "imWidth": "1920",
+        "imHeight": "734"
+      }
+    },
+    "MOT20-07": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-07/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-07/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-07/det/det.txt",
+      "gt": null,
+      "n_images": 585,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "585",
+        "imWidth": "1920",
+        "imHeight": "1080"
+      }
+    },
+    "MOT20-08": {
+      "img_dir": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-08/img1",
+      "seqinfo": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-08/seqinfo.ini",
+      "det": "/content/drive/MyDrive/Thesis/MOT20/test/MOT20-08/det/det.txt",
+      "gt": null,
+      "n_images": 806,
+      "seqinfo_meta": {
+        "imDir": "img1",
+        "frameRate": "25",
+        "seqLength": "806",
+        "imWidth": "1920",
+        "imHeight": "734"
+      }
+    }
+  },
+  "summary": {
+    "train_seq_count": 4,
+    "test_seq_count": 4,
+    "train_images_total": 8931,
+    "test_images_total": 4479
+  }
+}

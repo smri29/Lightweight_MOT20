@@ -1,0 +1,22 @@
+{
+  "MOT20-04": {
+    "features": "MOT20-04_reid_full_pca64.npy",
+    "links": 143,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe_relinked/MOT20-04_relinked_smoothed.txt"
+  },
+  "MOT20-06": {
+    "features": "MOT20-06_reid_full_pca64.npy",
+    "links": 28,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe_relinked/MOT20-06_relinked_smoothed.txt"
+  },
+  "MOT20-07": {
+    "features": "MOT20-07_reid_full_pca64.npy",
+    "links": 10,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe_relinked/MOT20-07_relinked_smoothed.txt"
+  },
+  "MOT20-08": {
+    "features": "MOT20-08_reid_full_pca64.npy",
+    "links": 10,
+    "tracks": "/content/DPF-MOT20/results/tracks_probe_relinked/MOT20-08_relinked_smoothed.txt"
+  }
+}

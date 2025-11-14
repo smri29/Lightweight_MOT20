@@ -1,0 +1,11 @@
+{
+  "decision_rule": "Choose ONLINE for all sequences (train shows higher IDF1 & MOTA).",
+  "train_summary_csv": "/content/DPF-MOT20/results/analysis/final_online_vs_relink_train.csv",
+  "submit_zip": "/content/DPF-MOT20/results/mot20_submit_online.zip",
+  "submit_files": {
+    "MOT20-04": "/content/DPF-MOT20/results/submit/MOT20-04.txt",
+    "MOT20-06": "/content/DPF-MOT20/results/submit/MOT20-06.txt",
+    "MOT20-07": "/content/DPF-MOT20/results/submit/MOT20-07.txt",
+    "MOT20-08": "/content/DPF-MOT20/results/submit/MOT20-08.txt"
+  }
+}

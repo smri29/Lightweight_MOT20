@@ -1,0 +1,94 @@
+{
+  "train_per_sequence": [
+    {
+      "Seq": "MOT20-01",
+      "Variant": "Online",
+      "IDF1": 65.52525220379975,
+      "MOTA": 44.70558631102164,
+      "MOTP": 80.70105827820385,
+      "IDSW": 154,
+      "src": "online"
+    },
+    {
+      "Seq": "MOT20-01",
+      "Variant": "Relink",
+      "IDF1": 55.78079750501226,
+      "MOTA": 29.451434323100155,
+      "MOTP": 71.2223560051802,
+      "IDSW": 123,
+      "src": "relink"
+    },
+    {
+      "Seq": "MOT20-02",
+      "Variant": "Online",
+      "IDF1": 62.30645663198796,
+      "MOTA": 41.22280957981673,
+      "MOTP": 81.71573939082731,
+      "IDSW": 1317,
+      "src": "online"
+    },
+    {
+      "Seq": "MOT20-02",
+      "Variant": "Relink",
+      "IDF1": 53.43184666234936,
+      "MOTA": 27.91808300267542,
+      "MOTP": 71.59705969996863,
+      "IDSW": 801,
+      "src": "relink"
+    },
+    {
+      "Seq": "MOT20-03",
+      "Variant": "Online",
+      "IDF1": 65.38826048961808,
+      "MOTA": 45.80434741023662,
+      "MOTP": 80.80587168736758,
+      "IDSW": 1263,
+      "src": "online"
+    },
+    {
+      "Seq": "MOT20-03",
+      "Variant": "Relink",
+      "IDF1": 57.231241358655296,
+      "MOTA": 33.36946610639614,
+      "MOTP": 69.4365183911141,
+      "IDSW": 502,
+      "src": "relink"
+    },
+    {
+      "Seq": "MOT20-05",
+      "Variant": "Online",
+      "IDF1": 65.08788474363155,
+      "MOTA": 44.21824910573936,
+      "MOTP": 80.69925880043293,
+      "IDSW": 4031,
+      "src": "online"
+    },
+    {
+      "Seq": "MOT20-05",
+      "Variant": "Relink",
+      "IDF1": 56.920366600174106,
+      "MOTA": 31.665954971346533,
+      "MOTP": 72.18576779923947,
+      "IDSW": 1758,
+      "src": "relink"
+    }
+  ],
+  "train_macro": [
+    {
+      "Variant": "Online",
+      "IDF1": 64.57696351725934,
+      "MOTA": 43.98774810170359,
+      "MOTP": 80.98048203920791,
+      "IDSW": 6765
+    },
+    {
+      "Variant": "Relink",
+      "IDF1": 55.841063031547755,
+      "MOTA": 30.60123460087956,
+      "MOTP": 71.11042547387561,
+      "IDSW": 3184
+    }
+  ],
+  "decision": "Ship ONLINE results for test. Relinking reduced IDF1/MOTA on train.",
+  "submission_zip": "/content/DPF-MOT20/results/mot20_submit_online.zip"
+}
